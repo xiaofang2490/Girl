@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+girl:
+  age: 10
+  name: 小222
